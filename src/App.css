@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+.App {
+  margin-top: 100px;
+  text-align: center;
+}
+body{
+  background-color: #c7dada;
+}
+
+nav {
+  box-shadow: 0 0 5px grey;
+  position: fixed;
+  box-sizing: border-box;
+  display: flex;
+  height: 80px;
+  left: 0;
+  padding: 0 12px;
+  top: 0;
+  width: 100%;
+  background: #534f8a;
+  justify-content: space-betweens;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 38%;
+  font-size: x-large;
+  
+}
+
+
+.heading{
+font-weight: bolder;
+color: #443f83;
+}
+.heading1{
+  font-weight: bold;
+  font-family: "Lobster", cursive;
+  color: #443f83;
+  }
+  .thead{
+    color: white;
+  }
